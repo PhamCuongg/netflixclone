@@ -11,8 +11,8 @@
   "/api/register": "pages/api/register.js",
   "/auth": "pages/auth.html",
   "/watch/[movieId]": "pages/watch/[movieId].html",
-  "/": "pages/index.js",
   "/profiles": "pages/profiles.js",
+  "/": "pages/index.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }
